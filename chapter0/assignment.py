@@ -1,0 +1,1 @@
+print("Part Lad\n" * 10)
